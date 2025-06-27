@@ -1,4 +1,4 @@
-![capa](https://media.licdn.com/dms/image/v2/D4D16AQE5a9JfAm5Ajw/profile-displaybackgroundimage-shrink_350_1400/B4DZa2X4cYHAAY-/0/1746816436514?e=1752105600&v=beta&t=9-H9EdEF_Ndy7-EB4fZHPpmQUAXMaYYgm5UMda4chOs)
+![capa](https://media.licdn.com/dms/image/v2/D4D16AQFhTmqQEA26Bw/profile-displaybackgroundimage-shrink_350_1400/B4DZejBLQzHMAc-/0/1750786684948?e=1756339200&v=beta&t=gLGEik4YLpyXn8cdyZJcjk74k6JHeMtqKS_pkj3HG6s)
 
 ---
 
@@ -8,7 +8,7 @@ Sou um profissional em transição de carreira, com mais de 16 anos de experiên
 
 💻 Atuação atual
 
-Atuo como Desenvolvedor Front-End, com experiência na criação de interfaces modernas, acessíveis e responsivas, utilizando HTML, CSS, JavaScript, TypeScript, React e Redux. Tenho familiaridade com metodologias ágeis (Scrum), Storybook para Design Systems e integração com serviços AWS, visando performance e segurança.
+Atuo como Desenvolvedor Front-End com foco em interfaces modernas, acessíveis e responsivas usando HTML, CSS, JavaScript, TypeScript, React e Tailwind. Tenho experiência com Redux, Storybook, metodologias ágeis (Scrum) e integração com serviços da AWS. Também venho me aprofundando em práticas DevOps, aplicando IaC, automação de deploys e CI/CD, sempre priorizando performance, segurança e boas práticas.
 
 📊 Complementos técnicos
 
@@ -23,7 +23,7 @@ Minha missão é unir minha paixão por aprendizado contínuo com minha experiê
 
 <div id="header" align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Front-End\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Front-End) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Data-Engineering\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Data-Engineering) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Data-Analyst\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Data-Analyst) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Front-End\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Front-End) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_DevOps\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_DevOps) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Data-Engineering\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Data-Engineering) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonildolinck&repo=Portfolio_Data-Analyst\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/leonildolinck/Portfolio_Data-Analyst) 
 
 </div>
 
@@ -61,10 +61,12 @@ Minha missão é unir minha paixão por aprendizado contínuo com minha experiê
 
 <div id="header" align="center">
 
-<a href="https://github.com/leonildolinck/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=leonildolinck&show_icons=true&theme=dark&include_commits=true"/>
- 
+<img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=leonildolinck&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonildolinck&&layout=compact&hide=shell&theme=highcontrast">
  
 #### *Thank you for your visit, if you like, let me a Star!*
+  <div>
+   <img align="center" src="https://profile-counter.glitch.me/leonildolinck/count.svg"> </div>
  
   <a href="https://www.linkedin.com/in/leonildo-linck/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
