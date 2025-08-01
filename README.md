@@ -2,21 +2,23 @@
 
 ---
 
-🎯 Sobre mim
+☁️ Sobre mim
 
-Sou um profissional em transição de carreira, com mais de 16 anos de experiência em projetos de construção civil, infraestrutura e urbanismo — trajetória que me proporcionou uma base sólida em gestão, resolução de problemas e trabalho colaborativo. Hoje, canalizo toda essa bagagem para o universo da tecnologia, com foco em desenvolvimento Front-End.
+Sou um profissional em transição de carreira com mais de 16 anos de experiência na construção civil, liderando obras de grande porte e alta complexidade, como as da Copa do Mundo e Olimpíadas no Brasil. Essa vivência desenvolveu minha capacidade de liderança, planejamento, resolução de problemas e trabalho sob pressão — habilidades que hoje aplico no universo da tecnologia, com foco em Cloud e DevOps.
 
-💻 Atuação atual
+🛠️ Atuação atual
 
-Atuo como Desenvolvedor Front-End com foco em interfaces modernas, acessíveis e responsivas usando HTML, CSS, JavaScript, TypeScript, React e Tailwind. Tenho experiência com Redux, Storybook, metodologias ágeis (Scrum) e integração com serviços da AWS. Também venho me aprofundando em práticas DevOps, aplicando IaC, automação de deploys e CI/CD, sempre priorizando performance, segurança e boas práticas.
+Atuo com foco em Cloud Computing e DevOps, aplicando boas práticas de infraestrutura como código (IaC), automação de ambientes, pipelines de CI/CD, conteinerização e monitoramento. Tenho experiência prática com AWS (3x Certified), Terraform, Docker, GitHub Actions, GitLab CI, FastAPI, Koyeb, além de integração contínua com aplicações front-end e back-end.
 
-📊 Complementos técnicos
+Também aplico conhecimentos em segurança na nuvem, observabilidade e deploy de aplicações serverless, priorizando escalabilidade, performance e redução de custos.
 
-Sou certificado em Análise de Dados (Google & Ada Tech), com conhecimento em SQL, bancos de dados e visualização de dados, habilidades que complementam meu trabalho como desenvolvedor ao trazer uma visão mais analítica para os projetos.
+🧠 Complementos técnicos
+
+Sou certificado em AWS (Solutions Architect, Cloud Practitioner e AI Cloud Practitioner), FinOps Certified Practitioner e Google Cloud Professional Data Engineer. Tenho conhecimento em bancos de dados SQL/NoSQL, versionamento com Git, automação de provisionamento, além de fundamentos sólidos em redes, segurança, DevSecOps e práticas ágeis.
 
 🚀 Objetivo
 
-Minha missão é unir minha paixão por aprendizado contínuo com minha experiência prévia em gestão e tecnologia para entregar soluções eficazes, inovadoras e centradas no usuário.
+Minha missão é combinar minha experiência em gestão de projetos complexos com a tecnologia em nuvem, ajudando equipes e empresas a construírem infraestruturas modernas, seguras e eficientes, que acelerem a entrega de valor e a inovação contínua.
 
 
 ## ⚡ **Principais Repositórios:**
